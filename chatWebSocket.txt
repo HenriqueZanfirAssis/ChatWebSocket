@@ -1,0 +1,14 @@
+													Chat Websocket
+
+						Chat em tempo real onde usuários podem trocar mensagens instantaneamente por meio de WebSockets, sem precisar recarregar a página.
+
+Integrantes
+
+Henrique Zanfir De Assis
+Laura Schu
+Iasmin Souto
+
+Links
+
+GitHub
+https://github.com/HenriqueZanfirAssis/ChatWebSocket
